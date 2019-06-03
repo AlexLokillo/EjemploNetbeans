@@ -1,2 +1,2 @@
 # EjemploNetbeans
-Ejemplo de utilizacion de Github grupal
+utilizando el IDE netbeans
